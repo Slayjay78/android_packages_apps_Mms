@@ -105,8 +105,6 @@ public class MessagingPreferenceActivity extends PreferenceActivity
     public static final String QM_CLOSE_ALL_ENABLED      = "pref_key_close_all";
     public static final String QM_DARK_THEME_ENABLED     = "pref_dark_theme";
 
-<<<<<<< HEAD
-=======
     // Blacklist
     public static final String BLACKLIST                 = "pref_blacklist";
 
@@ -116,7 +114,6 @@ public class MessagingPreferenceActivity extends PreferenceActivity
     public static final int ENTER_DEFAULT                = 0;
     public static final int ENTER_NEW_LINE               = 1;
 
->>>>>>> e44639e... [4/7] Mms: Blacklist support
     // Menu entries
     private static final int MENU_RESTORE_DEFAULTS    = 1;
 
